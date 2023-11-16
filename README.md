@@ -4,7 +4,7 @@
 
 🔧 Proficient in Python, JavaScript | Frameworks: React & Next.js | ☁️ AWS Cloud Certified
 
-🌱 Constant Learner | 🚀 Passionate about Cloud Technologies and Project
+🌱 Perpetual Learner | 🚀 Passionate about Cloud Technologies and Project
 
 📚 AWS Certified | Frontend Developer | Database Management
 
