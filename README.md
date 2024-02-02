@@ -1,6 +1,6 @@
 👋 Hello, I'm Nick Goko
 
-🚀 Junior Cloud Engineer | 🌍 Nairobi, Kenya
+🚀 Cloud Engineer | 🌍 Nairobi, Kenya
 
 🔧  | Proficient in Terraform, Python, JavaScript | Frameworks: React & Next.js |
 
